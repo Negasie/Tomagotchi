@@ -1,0 +1,41 @@
+h1 {
+	color: orange;
+	font-family: arial;
+}
+h2 {
+	color: orange;
+	font-family: helvetica;
+
+}
+#bigDiv {
+	display: inline-block;
+	color: orange;
+}
+#buttonHolder {
+	display: inline-block;
+		color: orange;
+
+}
+.statHolder {
+	display: inline-block;
+		color: orange;
+		font-family: helvetica;
+
+}
+#image {
+  height: 280px;
+  position: relative;
+}
+#baby {
+	height: 100px;
+	position: relative;
+}
+/*body {
+background-image: url("");
+
+}
+*/
+
+#background {
+/*	background-repeat: no-repeat;*/
+}
